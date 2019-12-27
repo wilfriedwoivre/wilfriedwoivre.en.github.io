@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "_posts/2009-*.md": true,
+        "_posts/2010-*.md": true,
+        "_posts/2011-*.md": true,
+        "_posts/2012-*.md": true,
+        "_posts/2013-*.md": true,
+        "_posts/2014-*.md": true,
+        "_posts/2015-*.md": true,
+        "_posts/2016-*.md": true,
+        "_posts/2017-*.md": true,
+        "_posts/2018-*.md": true,
+    }
+}
