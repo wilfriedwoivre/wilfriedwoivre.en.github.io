@@ -37,6 +37,9 @@ urls:
     - text: Github
       url: https://github.com/wilfriedwoivre
       target: _blank
+    - text: French blog
+      url: https://woivre.fr
+      target: _blank
 
 permalink: '/:year/:month/:title'
 
