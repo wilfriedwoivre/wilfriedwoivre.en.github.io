@@ -5,7 +5,7 @@ date: 2020-01-16
 categories: [ "Azure", "KeyVault", "Storage" ]
 ---
 
-Business talking, security is the sinews of war. It is not possible to design an application without any notion of security, whether this application is hosted on-premise or in the Cloud (preferably Azure).
+In business, security is a key point. It is not possible to design an application without any notion of security, whether this application is hosted on-premise or in the Cloud (preferably Azure).
 
 Using Azure storage accounts for Blob, Tables or Queues, you may want to avoid using the storage keys in your solution or in the configuration available on your servers for Leakage reasons.
 
