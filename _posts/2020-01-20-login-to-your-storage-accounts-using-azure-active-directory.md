@@ -5,7 +5,7 @@ date: 2020-01-20
 categories: [ "Azure", "Storage", "Azure Active Directory" ]
 ---
 
-Previously, I wrote an article talking about how to use KeyVault to generate SAS Keys: [http://woivre.com/blog/2020/01/generate-storage-accounts-sas-keys-using-keyvault](http://woivre.com/blog/2020/01/generate-storage-accounts-sas-keys-using-keyvault)
+Previously, I wrote an article talking about how to use KeyVault to generate SAS Keys: [https://woivre.com/blog/2020/01/generate-storage-accounts-sas-keys-using-keyvault](https://woivre.com/blog/2020/01/generate-storage-accounts-sas-keys-using-keyvault)
 
 In the same philosophy as the latter, it is possible to completely avoid using the Storage keys in your configs or your source code, even if I hope that it is already the case.
 
