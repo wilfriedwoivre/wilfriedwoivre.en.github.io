@@ -5,7 +5,7 @@ date: 2020-01-18
 categories: [ "Azure", "Powershell", "Azure Active Directory" ]
 ---
 
-Recently, I had to access to a storage account using an application account, so I set up a SPN which has an RBAC right on my storage account, as I show in this blog post: [http://woivre.com/blog/2020/01/login-to-your-storage-accounts-using-azure-active-directory](http://woivre.com/blog/2020/01/login-to-your-storage-accounts-using-azure-active-directory)
+Recently, I had to access to a storage account using an application account, so I set up a SPN which has an RBAC right on my storage account, as I show in this blog post: [https://woivre.com/blog/2020/01/login-to-your-storage-accounts-using-azure-active-directory](https://woivre.com/blog/2020/01/login-to-your-storage-accounts-using-azure-active-directory)
 
 Now I need to generate my access token, thing that may be easy using ADAL libraries, however for my usecase I had the following constraints :
 * Application account and a certificate authentication
