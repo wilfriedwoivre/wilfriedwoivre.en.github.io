@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Login to your Storage Accounts using Azure Active Directory
-date: 2020-01-20
+date: 2020-01-17
 categories: [ "Azure", "Storage", "Azure Active Directory" ]
 ---
 
