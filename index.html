@@ -29,9 +29,10 @@ title: Home
                 {% endfor %}
             </div>
         </ul>
+        <!-- Pagination links -->
+        {% if paginator.total_pages > 1 %}
         <div class="card pagination-card center">
-            <!-- Pagination links -->
-            {% if paginator.total_pages > 1 %}
+
 
             {% assign start = paginator.page | minus: 2 %}
             {% assign end = paginator.page | plus: 2 %}
@@ -98,8 +99,9 @@ title: Home
                     {% endif %}
                 </div>
             </div>
-            {% endif %}
         </div>
+        {% endif %}
+
     </div>
     {%- include sidebar.html -%}
 
