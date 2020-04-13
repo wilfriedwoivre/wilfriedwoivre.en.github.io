@@ -5,7 +5,7 @@ date: 2020-04-13
 categories: [ "Azure", "Resource Graph" ]
 ---
 
-u like me, you became a big fan of Resource Graph to explore the resources of your Azure subscriptions.
+Like me, you became a big fan of Resource Graph to explore the resources of your Azure subscriptions.
 
 Now nothing is perfect, and even less on Azure, it still lacks features including this one: [Resource Graph type for Management Groups](https://feedback.azure.com/forums/915958-azure-governance/suggestions/39760720-resource-graph-type-for-management-groups)
 
