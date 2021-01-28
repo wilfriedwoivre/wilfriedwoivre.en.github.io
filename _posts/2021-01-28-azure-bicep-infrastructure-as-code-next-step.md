@@ -2,7 +2,7 @@
 layout: post
 title: Azure Bicep - Infrastructure as code, next step ?
 date: 2021-01-28
-categories: [ "Azure", "ARM Template", "Bicep" ]
+categories: [ "Azure", "ARM", "Bicep" ]
 ---
 
 I think many of you have at least taken a look at Azure Bicep, in this article I will try to explain why I think it is a technology to follow in the future. 
