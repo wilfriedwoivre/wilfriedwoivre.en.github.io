@@ -7,7 +7,7 @@ categories: [ "Azure" ]
 
 One of the most important things in the Cloud (any providers) is IAM permissions, and one of the best practices is to define least privileges for your needs.
 
-In Azure, it's not an exception, and Microsoft provides lot of built in role to help you to secure your environment. Yes you read it correctly Owner, contributor and Reader are not the only built in roles provides by Microsoft, currently you have 245 role definition in Azure.
+In Azure, it's not an exception, and Microsoft provides lot of built in role to help you to secure your environment. Yes you read it correctly Owner, contributor and Reader are not the only built in roles provides by Microsoft, currently you have 245 role definitions in Azure.
 
 If i take one role, for example **Key Vault Contributor**, you have this definition:
 
