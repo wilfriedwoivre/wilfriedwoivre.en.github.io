@@ -10,5 +10,7 @@
         "_posts/2016-*.md": true,
         "_posts/2017-*.md": true,
         "_posts/2018-*.md": true,
-    }
+    },
+    "cSpell.enabled": true,
+    "cSpell.language": ",en"
 }
