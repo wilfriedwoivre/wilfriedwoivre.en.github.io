@@ -1,0 +1,6 @@
+<footer>
+    {% assign monthIndex = site.time | date: '%m' | minus: 1 %}
+
+    <p class="copyright">&copy; {{ site.author }},
+        {{ site.data.en.months[monthIndex] | downcase }} {{ site.time | date: '%Y' }} </p>
+</footer>

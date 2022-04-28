@@ -1,0 +1,74 @@
+author: Wilfried Woivré
+name: Wilfried Woivré & Azure
+description: Personal Blog by Wilfried Woivré. My favorites subjects are Azure, Cloud, Serverless, Container, ...
+
+title: Wilfried Woivré
+subtitle: Cloud Solution Architect - MVP Microsoft Azure
+
+url: "https://woivre.com"
+
+baseurl: ""
+
+github: "wilfriedwoivre"
+
+twitter_username: "wilfriedwoivre"
+linkedin_username: "wilfriedwoivre"
+
+gaaccount: UA-155051111-1
+
+
+issues_repo: wilfriedwoivre/wilfriedwoivre.en.github.io
+
+
+isso: ''
+disqs: ''
+
+urls:
+    - text: Home
+      url: /
+      target: _self
+    - text: Archives
+      url : /archive.html
+      target: _self
+    - text: About Me
+      url: /about.html
+      target: _self
+    - text: RSS
+      url : /feed.xml
+      target: _blank
+    - text: Github
+      url: https://github.com/wilfriedwoivre
+      target: _blank
+    - text: French blog
+      url: https://woivre.fr
+      target: _blank
+
+permalink: '/:year/:month/:title'
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: posts
+    values:
+      permalink: '/blog/:year/:month/:title'
+      title: 'Wilfried Woivré & Azure - :title'
+
+paginate: 12
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+plugins: 
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+lang: en
+
+future: false
+
+exclude: ['utils', 'README.md', 'LICENSE']

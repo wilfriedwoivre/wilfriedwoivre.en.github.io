@@ -1,0 +1,27 @@
+months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+
+shortmonths:
+    - JAN
+    - FEB
+    - MAR
+    - APR
+    - MAY
+    - JUNE
+    - JULY
+    - AUG
+    - SEP
+    - OCT
+    - NOV
+    - DEC

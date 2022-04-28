@@ -1,0 +1,2 @@
+﻿User-Agent: *
+Sitemap: https://woivre.com/sitemap.xml
