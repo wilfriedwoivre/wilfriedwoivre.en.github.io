@@ -25,7 +25,7 @@ jobs:
               title=$(grep -w 'title:' "./_posts/$entry")
               issueTitle="$(echo "${title/"title:"/""}"  | xargs echo -n)"
 
-              issueNumber=$(curl --request POST --url https://api.github.com/repos/${{ github.repository }}/issues --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' --header 'Content-Type: application/json' --data "{\"title\": \"$issueTitle\", \"body\": \"This issue was automatically created by the GitHub Action workflow\" }" | jq '.number')
+              issueNumber=$(curl --request POST --url https://api.github.com/repos/${{ github.repository }}/issues --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' --header 'Content-Type: application/json' --data "{\"title\": \"$issueTitle\", \"body\": \"This issue was automatically created by the GitHub Action workflow\", \"assignees\":[\"wilfriedwoivre\"] }" | jq '.number')
               echo "$issueNumber"
 
               sed -i "s/githubcommentIdtoreplace:/comments_id: $issueNumber/g" "./_posts/$entry"
