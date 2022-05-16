@@ -14,7 +14,7 @@ jobs:
 
     - name: rebuild
       run: |
-        git config --global user.name 'Gitub Action Bot'
+        git config --global user.name 'Github Action Bot'
         git config --global user.email 'wilfried.woivre@users.noreply.github.com'
-        git commit --amend --no-edit
-        git push --force-with-lease
+        git commit --allow-empty -m "create commit to push new blogposts"
+        git push
