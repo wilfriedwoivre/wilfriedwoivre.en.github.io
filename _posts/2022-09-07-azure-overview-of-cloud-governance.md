@@ -3,7 +3,7 @@ layout: post
 title: Azure - Overview of cloud governance
 date: 2022-09-07
 categories: [ "Azure" ]
-githubcommentIdtoreplace: 
+comments_id: 25 
 ---
 
 Cloud governance is a vast subject that is very trendy today. In this post, we will try to reveal everything behind this term, and how to respond to it for a company. Here we will only talk about Azure, but it would be quite possible to draw a parallel with any other Cloud, whether public or private.
