@@ -3,7 +3,7 @@ layout: post
 title: Azure Policy - Find unused policies
 date: 2022-11-10
 categories: [ "Azure", "Policy" ]
-githubcommentIdtoreplace: 
+comments_id: 26 
 ---
 
 Creating Azure policies is very easy, however it can be handy to know if all of your Azure policies are in use in your environment.
