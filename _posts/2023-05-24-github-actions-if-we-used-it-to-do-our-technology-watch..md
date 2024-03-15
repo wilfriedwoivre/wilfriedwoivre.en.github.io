@@ -2,7 +2,7 @@
 layout: post
 title: Github Actions - If we used it to do our technology watch
 date: 2023-05-24
-categories: [ "Divers", "Github Actions" ]
+categories: [ "Other", "Github Actions" ]
 comments_id: 36 
 ---
 
