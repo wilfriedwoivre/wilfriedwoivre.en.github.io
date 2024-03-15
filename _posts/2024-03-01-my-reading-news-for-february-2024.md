@@ -2,7 +2,7 @@
 layout: post
 title: My reading news for February 2024
 date: 2024-03-01
-categories: [ "Divers" ]
+categories: [ "Other" ]
 comments_id: 30 
 ---
 

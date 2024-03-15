@@ -14,7 +14,7 @@ $currentMonth = Get-Date($startDate) -UFormat %m
 $month = (Get-Culture -Name "en-US").DateTimeFormat.GetMonthName($currentMonth)
 $title = "My reading news for $month $((Get-Date($startDate)).ToString('yyyy'))"
 
-$category = '"Divers"'
+$category = '"Other"'
 
 $newPost = "---
 layout: post
