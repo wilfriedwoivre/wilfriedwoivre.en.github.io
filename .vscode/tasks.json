@@ -42,6 +42,30 @@
                 }
             ],
             "problemMatcher": []
+        },
+        
+        {
+            "label": "Generate news blog post",
+            "type": "shell",
+            "options": {
+                "shell": {
+                    "executable": "pwsh.exe",
+                    "args": [
+                        "-NoProfile",
+                        "-ExecutionPolicy",
+                        "ByPass",
+                        "-Command"
+                    ]
+                }
+            },
+            "command": "",
+            "args": [
+                {
+                    "value": ".\\utils\\generate-monthly-news.ps1",
+                    "quoting": "weak"
+                }
+            ],
+            "problemMatcher": []
         }
     ]
 }
