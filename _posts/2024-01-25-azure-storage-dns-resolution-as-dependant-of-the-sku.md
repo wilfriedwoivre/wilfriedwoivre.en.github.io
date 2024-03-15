@@ -3,7 +3,7 @@ layout: post
 title: Azure Storage - DNS resolution as dependant of the SKU
 date: 2024-01-25
 categories: [ "Azure", "Storage", "Network" ]
-githubcommentIdtoreplace: 
+comments_id: 32 
 ---
 
 During one of my investigations I came across something that I consider interesting that it is better known. I asked Microsoft to add it to the documentation, but it is still not the case.

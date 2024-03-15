@@ -3,7 +3,7 @@ layout: post
 title: Azure - Spring cleaning for your rbac
 date: 2023-12-04
 categories: ["Azure"]
-githubcommentIdtoreplace: 
+comments_id: 31 
 ---
 
 I suppose that in your Azure account, you have already come across the famous **Identiy not found** in your RBAC assignments
