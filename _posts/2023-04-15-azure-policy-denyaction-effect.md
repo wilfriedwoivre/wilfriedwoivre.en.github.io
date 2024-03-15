@@ -3,7 +3,7 @@ layout: post
 title: Azure Policy - DenyAction effect
 date: 2023-04-15
 categories: ["Azure", "Policy"]
-githubcommentIdtoreplace: 
+comments_id: 35 
 ---
 
 A new effect is available on the Azure Policy, this is the _deryaction_, as its name suggests it allows you to do a Deny when you try to do an action. But the subtlety is that if the action is made via parent resource, of the type deletion of a resourcegroup, you can authorize it.

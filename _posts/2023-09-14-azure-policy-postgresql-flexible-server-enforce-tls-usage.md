@@ -3,7 +3,7 @@ layout: post
 title: Azure Policy - PostgreSQL Flexible Server - Enforce TLS usage
 date: 2023-09-14
 categories: ["Azure", "Policy"]
-githubcommentIdtoreplace: 
+comments_id: 39 
 ---
 
 A small quick article to show you how to swell the TLS for the Azure Database for PostgreSQL Flexible Server. If you are looking in the Azure control plan options you are not going to find an option as on the postgresql single server bases.

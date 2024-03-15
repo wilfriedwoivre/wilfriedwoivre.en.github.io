@@ -3,7 +3,7 @@ layout: post
 title: Azure - Deployment Stack - Future of Blueprint ?
 date: 2023-07-30
 categories: [ "Azure" ]
-githubcommentIdtoreplace: 
+comments_id: 38 
 ---
 
 Microsoft announced [Deployement Stacks public preview](https://techcommunity.microsoft.com/t5/azure-governance-and-management/arm-deployment-stacks-now-public-preview/ba-p/3871180) the last week.

@@ -3,7 +3,7 @@ layout: post
 title: Azure Functions - Use Azurite with HTTPS for your unit tests
 date: 2023-06-06
 categories: [ "Azure", "Function" ]
-githubcommentIdtoreplace: 
+comments_id: 37 
 ---
 
 Previously, development was my core business, much less to date, but I always have great pleasure in developing applications. Most of these are based on serverless. My favorite language is C# so naturally I use Azure Functions for my developments.

@@ -3,7 +3,7 @@ layout: post
 title: Github Actions - If we used it to do our technology watch
 date: 2023-05-24
 categories: [ "Divers", "Github Actions" ]
-githubcommentIdtoreplace: 
+comments_id: 36 
 ---
 
 Nowadays doing its technology watch can be complicated, there are lots of information sources, blogs, sites, social networks, newsletters, podcasts, videos, etc. And you have to sort it out, find the relevant information, read it, understand it, analyze it, etc. And it all takes time, a lot of time.
