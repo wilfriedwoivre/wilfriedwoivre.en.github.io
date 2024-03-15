@@ -3,7 +3,7 @@ layout: post
 title: Azure - Anticipate the impacts of the services removal 
 date: 2024-02-11
 categories: [ "Azure" ]
-githubcommentIdtoreplace: 
+comments_id: 29 
 ---
 
 Azure services evolve over time. And one of the first Azure services is just a stay, these are Cloud Services.
