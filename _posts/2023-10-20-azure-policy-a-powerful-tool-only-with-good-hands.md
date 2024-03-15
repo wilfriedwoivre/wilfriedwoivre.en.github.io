@@ -3,7 +3,7 @@ layout: post
 title: Azure Policy - A powerful tool only with good hands
 date: 2023-10-20
 categories: [ "Azure", "Policy" ]
-githubcommentIdtoreplace: 
+comments_id: 33 
 ---
 
 Azure Policy is a very powerful tool, especially when it comes to governance.

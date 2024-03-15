@@ -3,7 +3,7 @@ layout: post
 title: Azure Policy - API version hell
 date: 2023-11-05
 categories: [ "Azure", "Policy" ]
-githubcommentIdtoreplace: 
+comments_id: 34 
 ---
 
 Azure is a product that evolves every day, a bit like user security needs. Unfortunately these developments are so fast that it is sometimes complicated to share them all, but also to follow them.
