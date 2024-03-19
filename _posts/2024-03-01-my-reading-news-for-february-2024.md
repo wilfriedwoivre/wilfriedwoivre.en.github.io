@@ -10,7 +10,7 @@ Here is a the list of reading news i share on February 2024.
 
 All of this list are a little messy, in the future i will try to sort them by category.
 
-- [Announcing General Availability of Azure Monitor Metrics Data Plane API](https://azure.microsoft.com/en-us/updates/generalavailabilityofazuremonitormetricsdataplaneapi/?WT.mc_id=AZ-MVP-4039694)
+- &Announcing General Availability of Azure Monitor Metrics Data Plane API](https://azure.microsoft.com/en-us/updates/generalavailabilityofazuremonitormetricsdataplaneapi/?WT.mc_id=AZ-MVP-4039694)
 - [Public Preview: Azure Monitor introduces Prometheus community recommended alerts](https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/?WT.mc_id=AZ-MVP-4039694)
 - [Public Preview:  Azure API Center - January Updates](https://azure.microsoft.com/en-us/updates/public-preview-azure-api-center-features/?WT.mc_id=AZ-MVP-4039694)
 - [Public preview: Istio add-on for AKS now supports plug-in certificate authority (CA)](https://azure.microsoft.com/en-us/updates/public-preview-istio-addon-for-aks-now-supports-plugin-certificate-authority-ca/?WT.mc_id=AZ-MVP-4039694)
