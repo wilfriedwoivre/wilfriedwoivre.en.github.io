@@ -3,7 +3,7 @@ layout: post
 title: Azure Bicep - Register provider feature from your template
 date: 2024-04-02
 categories: [ "Azure", "Bicep" ]
-githubcommentIdtoreplace: 
+comments_id: 40 
 ---
 
 When you have multiple Azure subscriptions, it can be helpful to activate provider feature on all.
