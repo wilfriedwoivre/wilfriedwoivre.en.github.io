@@ -1,40 +1,36 @@
 ---
-layout: post
+layout: news
 title: My reading news for February 2024
 date: 2024-03-01
-categories: [ "Other" ]
-comments_id: 30 
 ---
 
 Here is a the list of reading news i share on February 2024.
 
 All of this list are a little messy, in the future i will try to sort them by category.
 
-- &Announcing General Availability of Azure Monitor Metrics Data Plane API](https://azure.microsoft.com/en-us/updates/generalavailabilityofazuremonitormetricsdataplaneapi/?WT.mc_id=AZ-MVP-4039694)
-- [Public Preview: Azure Monitor introduces Prometheus community recommended alerts](https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/?WT.mc_id=AZ-MVP-4039694)
+- [Announcing General Availability of Azure Monitor Metrics Data Plane API](https://azure.microsoft.com/en-us/updates/generalavailabilityofazuremonitormetricsdataplaneapi/?WT.mc_id=AZ-MVP-4039694)
 - [Public Preview:  Azure API Center - January Updates](https://azure.microsoft.com/en-us/updates/public-preview-azure-api-center-features/?WT.mc_id=AZ-MVP-4039694)
-- [Public preview: Istio add-on for AKS now supports plug-in certificate authority (CA)](https://azure.microsoft.com/en-us/updates/public-preview-istio-addon-for-aks-now-supports-plugin-certificate-authority-ca/?WT.mc_id=AZ-MVP-4039694)
 - [Generally Available: Support for Cross Region Restore for PostgreSQL backups](https://azure.microsoft.com/en-us/updates/support-for-cross-region-restore-for-postgresql-backups-generally-available/?WT.mc_id=AZ-MVP-4039694)
+- [Public preview: Istio add-on for AKS now supports plug-in certificate authority (CA)](https://azure.microsoft.com/en-us/updates/public-preview-istio-addon-for-aks-now-supports-plugin-certificate-authority-ca/?WT.mc_id=AZ-MVP-4039694)
 - [Public preview: Upgrade support in Istio add-on for AKS](https://azure.microsoft.com/en-us/updates/public-preview-upgrade-support-in-istio-addon-for-aks/?WT.mc_id=AZ-MVP-4039694)
-- [Public Preview: Azure Functions Support for Java 21 on Linux](https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-java-21-on-linux/?WT.mc_id=AZ-MVP-4039694)
 - [Public Preview: New major version of durable Functions extension](https://azure.microsoft.com/en-us/updates/public-preview-new-major-version-of-durable-functions-extension/?WT.mc_id=AZ-MVP-4039694)
+- [Public Preview: Azure Functions Support for Java 21 on Linux](https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-java-21-on-linux/?WT.mc_id=AZ-MVP-4039694)
 - [Generally Available: Azure Container Apps supports additional TCP ports](https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-supports-additional-tcp-ports/?WT.mc_id=AZ-MVP-4039694)
 - [Visual Studio Code extension update for Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-us/updates/visual-studio-code-extension-update-for-azure-kubernetes-service-aks/?WT.mc_id=AZ-MVP-4039694)
 - [Public Preview: Distributed tracing v2 for durable Functions](https://azure.microsoft.com/en-us/updates/public-preview-distributed-tracing-v2-for-durable-functions/?WT.mc_id=AZ-MVP-4039694)
 - [Public preview: Node OS API options feature for AKS](https://azure.microsoft.com/en-us/updates/public-preview-node-os-api-options-feature-for-aks/?WT.mc_id=AZ-MVP-4039694)
 - [Public preview: Disable Secure Shell (SSH) support in AKS](https://azure.microsoft.com/en-us/updates/public-preview-disable-secure-shell-ssh-support-in-aks-2/?WT.mc_id=AZ-MVP-4039694)
-- [Generally Available: Outbound type migration in AKS](https://azure.microsoft.com/en-us/updates/generally-available-outbound-type-migration-in-aks/?WT.mc_id=AZ-MVP-4039694)
 - [Generally Available: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-us/updates/generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/?WT.mc_id=AZ-MVP-4039694)
+- [Generally Available: Outbound type migration in AKS](https://azure.microsoft.com/en-us/updates/generally-available-outbound-type-migration-in-aks/?WT.mc_id=AZ-MVP-4039694)
 - [General availability: PgAudit in Azure Cosmos DB for PostgreSQL](https://azure.microsoft.com/en-us/updates/general-availability-pgaudit-in-azure-cosmos-db-for-postgresql/?WT.mc_id=AZ-MVP-4039694)
 - [General Availability: Read replica in special regions with Azure Database for PostgreSQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-read-replica-in-special-regions-with-azure-database-for-postgresql-flexible-server/?WT.mc_id=AZ-MVP-4039694)
 - [General Availability: Server logs for Azure Database for PostgreSQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-server-logs-for-azure-database-for-postgresql-flexible-server/?WT.mc_id=AZ-MVP-4039694)
-- [General availability: Azure Cosmos DB for PostgreSQL Customer-managed keys (CMK)](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-postgresql-customermanaged-keys-cmk/?WT.mc_id=AZ-MVP-4039694)
 - [Public preview: Azure SQL updates for late-January 2024](https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latejanuary-2024/?WT.mc_id=AZ-MVP-4039694)
+- [General availability: Azure Cosmos DB for PostgreSQL Customer-managed keys (CMK)](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-postgresql-customermanaged-keys-cmk/?WT.mc_id=AZ-MVP-4039694)
 - [Public Preview: Azure Business Continuity Center is now available in all regions](https://azure.microsoft.com/en-us/updates/public-preview-azure-business-continuity-center-is-now-available-in-all-regions/?WT.mc_id=AZ-MVP-4039694)
 - [Release Azure Powershell - Az 11.3.0](https://github.com/Azure/azure-powershell/releases/tag/v11.3.0-Feb2024)
 - [Azure Virtual Network Manager security admin rule generally available in 30 regions](https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-security-admin-rule-generally-available-in-30-regions/?WT.mc_id=AZ-MVP-4039694)
 - [Azure Virtual Network Manager topology view now generally available](https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-topology-view-now-generally-available/?WT.mc_id=AZ-MVP-4039694)
-- [General availability: Topology](https://azure.microsoft.com/en-us/updates/general-availability-azure-topology/?WT.mc_id=AZ-MVP-4039694)
 - [Azure Bicep Release - v0.25.3: Bump bicep shared tools packages (#13189)](https://github.com/Azure/bicep/releases/tag/v0.25.3)
 - [Introducing Azure Verified Modules!](https://techcommunity.microsoft.com/t5/azure-tools-blog/introducing-azure-verified-modules/ba-p/4045946?WT.mc_id=AZ-MVP-4039694)
 - [AI for Developers](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ai-for-developers/ba-p/4050809?WT.mc_id=AZ-MVP-4039694)
@@ -44,7 +40,6 @@ All of this list are a little messy, in the future i will try to sort them by ca
 - [Azure Bicep Release - v0.25.53](https://github.com/Azure/bicep/releases/tag/v0.25.53)
 - [Simplifying Azure Kubernetes Service Authentication Part 2](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/simplifying-azure-kubernetes-service-authentication-part-2/ba-p/4055332?WT.mc_id=AZ-MVP-4039694)
 - [Azure Firewall: Flow Trace Logs and Autoscaling based on number of connections are now generally available](https://azure.microsoft.com/en-us/updates/azure-firewall-flow-trace-logs-and-autoscaling-based-on-number-of-connections-and-are-now-generally-available/?WT.mc_id=AZ-MVP-4039694)
-- [Sending a log search alert to unauthorized target resources will no longer be supported](https://azure.microsoft.com/en-us/updates/sending-a-log-search-alert-to-unauthorized-target-resources-will-no-longer-be-supported/?WT.mc_id=AZ-MVP-4039694)
 - [Azure Firewall: Parallel IP Group update support is now in public preview](https://azure.microsoft.com/en-us/updates/azure-firewall-parallel-ip-group-update-support-is-now-in-public-preview/?WT.mc_id=AZ-MVP-4039694)
 - [Azure Elastic SAN is now generally available](https://azure.microsoft.com/en-us/updates/azure-elastic-san-is-now-generally-available/?WT.mc_id=AZ-MVP-4039694)
 - [New Security Advisory Tab Added to the Microsoft Security Update Guide](https://msrc.microsoft.com/blog/2024/02/new-security-advisory-tab-added-to-the-microsoft-security-update-guide/)
@@ -67,19 +62,9 @@ All of this list are a little messy, in the future i will try to sort them by ca
 - [Creating Intelligent Apps on App Service with .NET](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/creating-intelligent-apps-on-app-service-with-net/ba-p/4062684?WT.mc_id=AZ-MVP-4039694)
 - [General availability: Application Gateway for Containers](https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-for-containers/?WT.mc_id=AZ-MVP-4039694)
 - [Best Practices for using Azure Container Registry and Docker Hub](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/best-practices-for-using-azure-container-registry-and-docker-hub/ba-p/4068979?WT.mc_id=AZ-MVP-4039694)
-- [Public preview: Internet inbound for Network Virtual Appliances in Virtual WAN Hubs](https://azure.microsoft.com/en-us/updates/public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs/?WT.mc_id=AZ-MVP-4039694)
-- [Public preview: Kubernetes 1.29 support in AKS](https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-129-support-in-aks/?WT.mc_id=AZ-MVP-4039694)
-- [Public preview: Azure Functions Support for HTTP Streams in Node.js](https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-http-streams-in-nodejs/?WT.mc_id=AZ-MVP-4039694)
 - [Generally Available: Node Soak Duration for Upgrades](https://azure.microsoft.com/en-us/updates/generally-available-node-soak-duration-for-upgrades/?WT.mc_id=AZ-MVP-4039694)
-- [Public preview: OS SKU in-place migration for Linux nodes](https://azure.microsoft.com/en-us/updates/public-preview-os-sku-inplace-migration-for-linux-nodes/?WT.mc_id=AZ-MVP-4039694)
-- [Generally Available: Capacity Reservations support in AKS](https://azure.microsoft.com/en-us/updates/generally-available-capacity-reservations-support-in-aks/?WT.mc_id=AZ-MVP-4039694)
-- [Public preview: Disable network policy in AKS for migration](https://azure.microsoft.com/en-us/updates/public-preview-disable-network-policy-for-migration-in-aks/?WT.mc_id=AZ-MVP-4039694)
 - [GA: Istio-based service mesh add-on for Azure Kubernetes Service](https://azure.microsoft.com/en-us/updates/ga-istiobased-service-mesh-addon-for-azure-kubernetes-service/?WT.mc_id=AZ-MVP-4039694)
-- [Public Preview: Azure SQL updates for late-February 2024](https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latefebruary-2024/?WT.mc_id=AZ-MVP-4039694)
-- [Public preview: AKS support for node soak duration for upgrades](https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-node-soak-duration-for-upgrades/?WT.mc_id=AZ-MVP-4039694)
-- [General availability: Azure SDKs support for Azure Cosmos DB for PostgreSQL](https://azure.microsoft.com/en-us/updates/general-availability-azure-sdks-support-for-azure-cosmos-db-for-postgresql/?WT.mc_id=AZ-MVP-4039694)
 - [General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3/?WT.mc_id=AZ-MVP-4039694)
-- [General availability: Azure CLI support for Azure Cosmos DB for PostgreSQL](https://azure.microsoft.com/en-us/updates/general-availability-azure-cli-support-for-azure-cosmos-db-for-postgresql/?WT.mc_id=AZ-MVP-4039694)
 - [Terraform on Azure February 2024 Update](https://techcommunity.microsoft.com/t5/azure-tools-blog/terraform-on-azure-february-2024-update/ba-p/4070567?WT.mc_id=AZ-MVP-4039694)
 - [Load Testing Azure Service Bus](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/load-testing-azure-service-bus/ba-p/4070521?WT.mc_id=AZ-MVP-4039694)
 - [Azure Functions: Support for HTTP Streams in Node.js is now in Preview](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-functions-support-for-http-streams-in-node-js-is-now-in/ba-p/4066575?WT.mc_id=AZ-MVP-4039694)

@@ -63,6 +63,8 @@ And how I build my matrix in Python:
 
 After I can use it at my will in my workflow side that
 
+{% raw %}
+
 ```yaml
   read-rss:
     needs:
@@ -89,6 +91,8 @@ After I can use it at my will in my workflow side that
         GithubRepository: ${{ github.repository }}
         GithubToken: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+{% endraw %}
 
 And here is the result in my workflow:
 
