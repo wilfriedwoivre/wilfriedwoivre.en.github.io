@@ -3,7 +3,7 @@ layout: post
 title: Bicep - Create Entra ID object from your template
 date: 2024-05-31
 categories: [ "Azure", "Bicep", "Entra ID" ]
-githubcommentIdtoreplace: 
+comments_id: 41 
 ---
 
 Recently we can create objects Entra ID via our Bicep templates.
