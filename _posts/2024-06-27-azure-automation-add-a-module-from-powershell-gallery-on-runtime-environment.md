@@ -3,7 +3,7 @@ layout: post
 title: Azure Automation - Add a module from powershell gallery on runtime environment
 date: 2024-06-27
 categories: [ "Azure", "Automation" ]
-githubcommentIdtoreplace: 
+comments_id: 42 
 ---
 
 Recently Microsoft added Environment Runtime functionality in Azure Automation.
