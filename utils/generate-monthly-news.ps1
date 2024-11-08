@@ -1,5 +1,5 @@
 Param(
-    [int]$monthTosubstract = 2
+    [int]$monthTosubstract = 1
 )
 $ErrorActionPreference = "Stop"
 
