@@ -3,7 +3,7 @@ layout: post
 title: Bicep - Azure Verified Module, a registry to help you
 date: 2024-09-10
 categories: [ "Azure", "Bicep" ]
-githubcommentIdtoreplace: 
+comments_id: 43 
 ---
 
 If you have not followed the new features around Bicep, it is possible to create modules, and put them in a private registration via Azure Container Registry, I would surely make an article soon.
