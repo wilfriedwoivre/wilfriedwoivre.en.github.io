@@ -3,7 +3,7 @@ layout: post
 title: Azure Virtual Network Manager - Manage your IPs with an Azure IPAM built in
 date: 2025-02-08
 categories: [ "Azure", "Network" ]
-githubcommentIdtoreplace: 
+comments_id: 45 
 ---
 
 
