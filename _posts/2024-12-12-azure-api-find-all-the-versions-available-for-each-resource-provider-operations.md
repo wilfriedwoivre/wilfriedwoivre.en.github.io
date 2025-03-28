@@ -1,6 +1,4 @@
 ﻿---
-```markdown
----
 layout: post
 title: Azure API - Find all the versions available for each resource provider operations
 date: 2024-12-12
@@ -63,4 +61,3 @@ It is therefore possible to retrieve the different APIs using the following comm
 ```
 
 And there you have it, all that's left is to integrate this into a proper test CI pipeline.
-
