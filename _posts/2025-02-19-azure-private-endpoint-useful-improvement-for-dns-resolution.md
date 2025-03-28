@@ -3,7 +3,7 @@ layout: post
 title: Azure Private Endpoint - Useful improvement for DNS resolution
 date: 2025-02-19
 categories: [ "Azure", "Network", "Private Endpoint" ]
-githubcommentIdtoreplace: 
+comments_id: 50 
 ---
 
 In a previous [post](https://woivre.com/blog/2023/11/azure-policy-api-version-hell), I told you about the DNS resolution of the private endpoint and how it can be complicated when you have several actors in play, or that you use managed private endpoint.

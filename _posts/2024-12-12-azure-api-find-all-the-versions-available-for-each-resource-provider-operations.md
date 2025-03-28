@@ -5,7 +5,7 @@ layout: post
 title: Azure API - Find all the versions available for each resource provider operations
 date: 2024-12-12
 categories: [ "Azure" ]
-githubcommentIdtoreplace: 
+comments_id: 49 
 ---
 
 Last year, I talked about the challenges of managing Azure Policies APIs.

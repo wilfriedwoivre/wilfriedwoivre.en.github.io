@@ -3,7 +3,7 @@ layout: post
 title: Azure Bastion - Finally a free sku for your tests
 date: 2024-08-26
 categories: [ "Azure", "Bastion" ]
-githubcommentIdtoreplace: 
+comments_id: 47 
 ---
 
 Secure access to your Azure VMS is very important, and that is part of the common sense not to put an RDP (or SSH) access available over the internet, especially with a password available in GitHub or other ...

@@ -3,7 +3,7 @@ layout: post
 title: Azure Policy - Manage conflicts in your modify policies
 date: 2024-10-17
 categories: [ "Azure", "Policy" ]
-githubcommentIdtoreplace: 
+comments_id: 48 
 ---
 
 Policies with modify effect are very useful to enforce a rule, and prevent automatic modification from a legacy infrastructure as code to update TLS version from 1.2 to 1.0 for example.

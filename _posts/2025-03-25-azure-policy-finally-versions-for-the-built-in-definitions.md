@@ -3,7 +3,7 @@ layout: post
 title: Azure Policy - Finally versions for the Built-in definitions
 date: 2025-03-25
 categories: [ "Azure", "Policy" ]
-githubcommentIdtoreplace: 
+comments_id: 51 
 ---
 
 During the last ignite, Microsoft announced a feature that I expected a lot around the Azure Policy, they are versioned.
