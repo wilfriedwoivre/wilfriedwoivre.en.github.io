@@ -3,7 +3,7 @@ layout: post
 title: Azure PowerShell - Update from Get-AzAccessToken for Az 14
 date: 2025-04-23
 categories: [  ]
-githubcommentIdtoreplace: 
+comments_id: 52 
 ---
 
 In the next major version of the Az module for PowerShell, there is a significant breaking change that can potentially impact all your automation scripts.
