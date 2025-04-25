@@ -2,7 +2,7 @@
 layout: post
 title: Azure PowerShell - Update from Get-AzAccessToken for Az 14
 date: 2025-04-23
-categories: [  ]
+categories: [ "Azure", "Powershell" ]
 comments_id: 52 
 ---
 
