@@ -17,7 +17,7 @@ You therefore have three main choices to name your resources :
 
 Now in the life of a business, it is often occur to change the names of the teams, projects, applications, etc. And we therefore end up with resources with obsolete names.
 
-It is possible to add a tag called `hidden-title` which allows you to add an additional name to your resource as below:
+It is possible to add a tag called _hidden-title_ which allows you to add an additional name to your resource as below:
 
 ![alt text]({{ site.url }}/images/2025/05/14/azure-tags-use-hidden-tags-img0.png)
 
