@@ -3,7 +3,7 @@ layout: post
 title: Copilot for Azure - Remove access for your users
 date: 2025-06-30
 categories: [ "Azure", "Copilot" ]
-githubcommentIdtoreplace: 
+comments_id: 54 
 ---
 
 Azure Copilot is a powerful tool that can transform the way your users interact with Microsoft's public cloud.
