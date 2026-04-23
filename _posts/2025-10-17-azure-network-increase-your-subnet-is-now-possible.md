@@ -2,7 +2,7 @@
 layout: post
 title: Azure Network - Increase your subnet is now possible ! 
 date: 2025-10-17
-categories: [  ]
+categories: [ "Azure", "Network" ]
 comments_id: 58 
 ---
 
