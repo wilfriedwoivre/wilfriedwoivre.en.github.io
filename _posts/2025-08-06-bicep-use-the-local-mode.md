@@ -3,7 +3,7 @@ layout: post
 title: Bicep - Use the local mode
 date: 2025-08-06
 categories: [ "Azure", "Bicep" ]
-githubcommentIdtoreplace: 
+comments_id: 56 
 ---
 
 It can be frustrating to always have to trigger a Bicep deployment to Azure while you are still writing your script. And of course you don't want to run your deployment after blindly building your Landing Zone after 1 week of hard work. (or 2 hours if you use AVM.)
