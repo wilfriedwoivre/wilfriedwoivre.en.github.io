@@ -3,7 +3,7 @@ layout: post
 title: Azure Sandbox - A small improvment for Copilot users through VSCode
 date: 2026-03-24
 categories: [ "Azure" ]
-githubcommentIdtoreplace: 
+comments_id: 63 
 ---
 
 Like everyone else, you probably noticed the AI shift. I assume you are using it more and more, just like all of us.

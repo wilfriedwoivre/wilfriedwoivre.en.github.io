@@ -3,7 +3,7 @@ layout: post
 title: Azure - Find the availability zone for your subscription
 date: 2026-04-10
 categories: [ "Azure" ]
-githubcommentIdtoreplace: 
+comments_id: 64 
 ---
 
 
