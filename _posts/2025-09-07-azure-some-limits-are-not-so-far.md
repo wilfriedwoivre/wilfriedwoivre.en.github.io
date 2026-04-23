@@ -3,7 +3,7 @@ layout: post
 title: Azure - Some limits are not so far
 date: 2025-09-07
 categories: [ "Azure" ]
-githubcommentIdtoreplace: 
+comments_id: 57 
 ---
 
 The Cloud is infinite — that is what we often hear. But is that really true? In reality, there are limitations in the Cloud, and Azure is no exception. These limitations can be related to capacity, performance, security, or other aspects.
