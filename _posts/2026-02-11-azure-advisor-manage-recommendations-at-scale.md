@@ -3,7 +3,7 @@ layout: post
 title: Azure Advisor - Manage recommendations at scale
 date: 2026-02-11
 categories: [ "Azure", "Azure Advisor" ]
-githubcommentIdtoreplace: 
+comments_id: 62 
 ---
 
 Azure Advisor is an Azure service that provides many recommendations for your environments, whether in terms of security, cost, or resilience. This tool is great, but it can be quite time-consuming to manage and account for all recommendations across an enterprise.

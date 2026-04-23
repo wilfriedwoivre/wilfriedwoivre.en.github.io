@@ -3,7 +3,7 @@ layout: post
 title: Azure VM - Update your boot diagnostics
 date: 2026-01-27
 categories: [ "Azure", "Virtual Machines" ]
-githubcommentIdtoreplace: 
+comments_id: 61 
 ---
 
 As you all know, logs are important. One log that is often underestimated is boot diagnostics, at least to confirm whether the VM started correctly.
