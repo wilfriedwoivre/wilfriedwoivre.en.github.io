@@ -3,7 +3,7 @@ layout: post
 title: Azure Network - Increase your subnet is now possible ! 
 date: 2025-10-17
 categories: [  ]
-githubcommentIdtoreplace: 
+comments_id: 58 
 ---
 
 You've already found yourself in a situation where you were perhaps too cautious (or optimistic) about managing your IPs, and you assigned only a tiny /28 range to an application without realizing that tomorrow it would explode and you'd need to request a larger range to function.
