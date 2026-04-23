@@ -3,7 +3,7 @@ layout: post
 title: Bicep - Deployment panel in VS Code
 date: 2025-07-17
 categories: [  ]
-githubcommentIdtoreplace: 
+comments_id: 55 
 ---
 
 
