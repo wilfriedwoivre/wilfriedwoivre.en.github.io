@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Azure VM - RunCommand access
-date: 2026-04-23
+date: 2025-11-04
 categories: [ "Azure", "Virtual Machines"  ]
 comments_id: 59 
 ---
