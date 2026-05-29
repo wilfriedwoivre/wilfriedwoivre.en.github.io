@@ -3,7 +3,7 @@ layout: post
 title: Azure Monitor - Follow global storage you used
 date: 2026-05-27
 categories: [ "Azure", "Monitoring" ]
-githubcommentIdtoreplace: 
+comments_id: 65 
 ---
 
 As part of a governance approach, it can be useful to inventory everything you use in the public cloud.
