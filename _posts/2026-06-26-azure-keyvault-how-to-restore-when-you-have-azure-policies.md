@@ -3,7 +3,7 @@ layout: post
 title: Azure Keyvault - How to restore when you have Azure Policies
 date: 2026-06-26
 categories: [ "Azure", "KeyVault", "Policy" ]
-githubcommentIdtoreplace: 
+comments_id: 66 
 ---
 
 
