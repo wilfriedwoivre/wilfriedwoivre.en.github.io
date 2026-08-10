@@ -3,7 +3,7 @@ layout: post
 title: Implementing Azure Network Security Perimeter in a Real-World Azure Architecture
 date: 2026-08-31
 categories: [Azure, Network Security Perimeter]
-githubcommentIdtoreplace:
+githubcommentIdtoreplace: 
 ---
 
 By the time you reach the implementation stage, Azure Network Security Perimeter becomes much more tangible. The real value appears when you apply it to an architecture that already includes shared services, workloads, and multiple teams.

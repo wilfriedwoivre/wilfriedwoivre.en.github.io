@@ -3,7 +3,7 @@ layout: post
 title: How to Protect PaaS Resources with Azure Network Security Perimeter
 date: 2026-08-17
 categories: [Azure, Network Security Perimeter]
-githubcommentIdtoreplace:
+githubcommentIdtoreplace: 
 ---
 
 Azure PaaS resources are often central to modern cloud applications, but they can also be difficult to secure because they are frequently accessed from different services, pipelines, and users. Azure Network Security Perimeter provides a useful way to define a tighter security boundary around these resources.
