@@ -3,7 +3,7 @@ layout: post
 title: Azure Network Security Perimeter vs Private Endpoints - Which One Should You Use?
 date: 2026-08-24
 categories: [Azure, Network Security Perimeter]
-githubcommentIdtoreplace: 
+comments_id: 69 
 ---
 
 Azure Network Security Perimeter and private endpoints are both powerful mechanisms for improving resource protection, but they are not interchangeable. Understanding their differences is essential when designing secure Azure architectures.
