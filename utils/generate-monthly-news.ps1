@@ -25,10 +25,15 @@ $title = "My reading news for $month $((Get-Date($startDate)).ToString('yyyy'))"
 
 $category = '"Other"'
 
+$publishDate = "$((Get-Date($endDate)).AddDays(1).ToString('yyyy-MM-dd'))"
+if ($monthTosubstract -eq 0) {
+    $publishDate = "$((Get-Date).ToString('yyyy-MM-dd'))"
+}
+
 $newPost = "---
 layout: news
 title: $title
-date: $((Get-Date($endDate)).AddDays(1).ToString('yyyy-MM-dd'))
+date: $publishDate
 ---
 
 Here is a the list of reading news i share on $month $((Get-Date($startDate)).ToString('yyyy')).
@@ -74,8 +79,8 @@ $newPost = $newPost -replace 'ΓÇô', '-'
 $newPost = $newPost -replace 'ΓÇö', "-"
 
 
-$filePath = "$PSScriptRoot\..\_news\$fileName"
+$filePath = Join-Path $PSScriptRoot ".." "_news" $fileName
 
-New-Item $filePath
+New-Item $filePath -Force | Out-Null
 
 $newPost | Out-File $filePath -Encoding utf8
