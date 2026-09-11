@@ -3,7 +3,7 @@ layout: post
 title: Azure Front Door - mTLS support
 date: 2026-09-11
 categories: [ "Azure", "Front Door" ]
-githubcommentIdtoreplace: 
+comments_id: 71 
 ---
 
 It is still in preview, but mTLS support is finally coming to Azure Front Door.
