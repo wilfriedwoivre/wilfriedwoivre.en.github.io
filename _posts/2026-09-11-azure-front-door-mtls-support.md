@@ -3,7 +3,7 @@ layout: post
 title: Azure Front Door - mTLS support
 date: 2026-09-11
 categories: [ "Azure", "Front Door" ]
-comments_id: 217 
+githubcommentIdtoreplace: 
 ---
 
 It is still in preview, but mTLS support is finally coming to Azure Front Door.
@@ -19,9 +19,9 @@ For clarity, here is what this looks like in a diagram (thanks to Cloudflare for
 Why this is good news is that it is now possible to expose a global asset like Front Door and add stronger security with mTLS. The PaaS solutions available on Azure today are limited to Azure Application Gateway and Azure API Management. As you know, both of these components are regional, which therefore requires significant work on resilience and high-availability concerns.
 
 
-As for the preview limitations I see, and which I hope will be corrected or improved before a likely GA release:
+Pour les limitations de la preview que je vois, et qui j'espère seront corrigées ou améliorées avant une probable mise à disposition en GA.
 
-- Certificate rotation is not yet operational.
-- Only a single certificate is allowed, which impacts rollover, especially for a global asset like Front Door. No timeline has been announced for updates to this type of configuration. 
+- La rotation de certificat qui n'est pas opérationnelle.
+- Un seul certificat autorisé, ce qui impacte le rollover surtout sur un asset global comme le Front Door. Pas de délai annoncé sur les mise à jour de ce type de configuration. 
 
 
