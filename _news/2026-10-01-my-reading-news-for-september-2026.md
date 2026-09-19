@@ -1,7 +1,7 @@
 ---
 layout: news
 title: My reading news for September 2026
-date: 2026-09-18
+date: 2026-09-19
 ---
 
 Here is a the list of reading news i share on September 2026.
@@ -33,4 +33,6 @@ All of this list are a little messy, in the future i will try to sort them by ca
 - [[In preview] Public Preview: HTTP/3 over QUIC support in Azure Application Gateway](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=571123)
 - [Announcing: New Windows App client-side endpoints for Azure Virtual Desktop](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=571360)
 - [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/)
+- [Comment protéger les ressources PaaS avec Azure Network Security Perimeter](https://woivre.fr/blog/2026/09/comment-proteger-les-ressources-paas-avec-azure-network-security-perimeter)
+- [[Launched] Generally Available: High-scale mesh in Azure Virtual Network Manager](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=571572)
 
