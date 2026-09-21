@@ -1,7 +1,7 @@
 ---
 layout: news
 title: My reading news for September 2026
-date: 2026-09-20
+date: 2026-09-21
 ---
 
 Here is a the list of reading news i share on September 2026.
