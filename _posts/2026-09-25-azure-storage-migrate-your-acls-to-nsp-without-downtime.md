@@ -3,7 +3,7 @@ layout: post
 title: Azure Storage - Migrate your ACLs to NSP without downtime
 date: 2026-09-25
 categories: [ "Azure", "Storage", "Network Security Perimeter" ]
-githubcommentIdtoreplace: 
+comments_id: 72 
 ---
 
 If you have ever had to tighten Azure Storage access, you know the main problem is not the feature itself. It is doing it without breaking the workload that depends on it.
