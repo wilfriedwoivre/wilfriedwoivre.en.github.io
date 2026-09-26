@@ -1,7 +1,7 @@
 ---
 layout: news
 title: My reading news for September 2026
-date: 2026-09-25
+date: 2026-09-26
 ---
 
 Here is a the list of reading news i share on September 2026.
@@ -41,4 +41,8 @@ All of this list are a little messy, in the future i will try to sort them by ca
 - [[In preview] Public Preview: Introducing a Guided Copilot Experience for Building Azure Apps in VS Code](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=572214)
 - [[Launched] Generally Available: Azure Functions support for PowerShell 7.6](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=572219)
 - [[In preview] Public Preview: Flex Nodes for AKS](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=571919)
+- [[Launched] Generally Available: Azure Container Apps Express](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=559242)
+- [[Launched] Generally Available: Azure Container Apps Sandboxes](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=561262)
+- [Azure Network Security Perimeter ou Private Endpoint - lequel utiliser ?](https://woivre.fr/blog/2026/09/azure-network-security-perimeter-ou-private-endpoint-lequel-choisir)
+- [[Launched] Generally Available: Instant Access for VM restore points](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=572573)
 
