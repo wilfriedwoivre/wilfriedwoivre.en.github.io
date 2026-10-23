@@ -1,7 +1,7 @@
 ---
 layout: news
 title: My reading news for October 2026
-date: 2026-10-22
+date: 2026-10-23
 ---
 
 Here is a the list of reading news i share on October 2026.
@@ -11,6 +11,8 @@ All of this list are a little messy, in the future i will try to sort them by ca
 - [Mettre en place Azure Network Security Perimeter dans une architecture Azure réaliste](https://woivre.fr/blog/2026/10/mettre-en-place-azure-network-security-perimeter-dans-une-architecture-azure-realiste)
 - [[In preview] Public Preview: Reader Endpoint for Azure Database for MySQL](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=569653)
 - [Retirement: Functions on Azure Container Apps V1](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=570800)
+- [[In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=571504)
+- [Scaling Kubernetes Workloads with Node Swap](https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/)
 - [[In preview] Public Preview: Azure HorizonDB expands to additional regions](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=572940)
 - [Announcing: Table discovery in OneLake Catalog search](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=573875)
 - [[In preview] Public Preview: Azure Backup for PostgreSQL flexible server and elastic cluster (v2)](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=573425)
@@ -32,4 +34,9 @@ All of this list are a little messy, in the future i will try to sort them by ca
 - [[In preview] Public Preview: Azure Databricks Private network gateway](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=576556)
 - [[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=577165)
 - [[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=573917)
+- [[In preview] Public Preview: Disable VNet peering route](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=576242)
+- [[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=577156)
+- [[Launched] Generally Available: Keyless TLS on Application Gateway with Azure Key Vault Managed HSM](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=577130)
+- [[Launched] Generally Available: Advanced platform metrics for Azure Monitor](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=575329)
+- [[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=576716)
 
