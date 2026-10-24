@@ -1,7 +1,7 @@
 ---
 layout: news
 title: My reading news for October 2026
-date: 2026-10-23
+date: 2026-10-24
 ---
 
 Here is a the list of reading news i share on October 2026.
@@ -25,8 +25,8 @@ All of this list are a little messy, in the future i will try to sort them by ca
 - [[Launched] Generally Available: Exceptions in WAF for Azure Application Gateway and Azure Front Door](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=574343)
 - [[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=574204)
 - [Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp](https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/)
-- [[Launched] Generally Available: Azure Cloud HSM hardware audit logging](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=576377)
 - [[Launched] Generally Available: Azure Site Recovery Support for Azure ARC-enabled Windows VMWare/Physical servers](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=576214)
+- [[Launched] Generally Available: Azure Cloud HSM hardware audit logging](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=576377)
 - [[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=576542)
 - [[Launched] Generally Available: Standard service endpoint](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=571025)
 - [[Launched] Generally Availabile: Automatic zone balance for Virtual Machine Scale Sets](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=576334)
@@ -39,4 +39,6 @@ All of this list are a little messy, in the future i will try to sort them by ca
 - [[Launched] Generally Available: Keyless TLS on Application Gateway with Azure Key Vault Managed HSM](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=577130)
 - [[Launched] Generally Available: Advanced platform metrics for Azure Monitor](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=575329)
 - [[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=576716)
+- [Azure Service Endpoint - Standard vs Basic](https://woivre.com/blog/2026/10/azure-service-endpoint-standard-vs-basic)
+- [[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=577618)
 
