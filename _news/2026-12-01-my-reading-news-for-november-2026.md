@@ -1,7 +1,7 @@
 ---
 layout: news
 title: My reading news for November 2026
-date: 2026-11-06
+date: 2026-11-07
 ---
 
 Here is a the list of reading news i share on November 2026.
@@ -19,4 +19,6 @@ All of this list are a little messy, in the future i will try to sort them by ca
 - [[In preview] Public Preview: Extend immutability for PITR backups for Azure SQL Database and Azure SQL Managed Instance](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=579305)
 - [Generally Available: Route maps for Azure Route Server](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=578966)
 - [[In preview] Public Preview: Azure Firewall IPv6 now supports application rules](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=579507)
+- [[Launched] Generally Available: Azure Front Door TLS key exchange policy with post-quantum support](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=577668)
+- [[Launched] Generally Available: WAF Insights for Azure Application Gateway](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=579280)
 
