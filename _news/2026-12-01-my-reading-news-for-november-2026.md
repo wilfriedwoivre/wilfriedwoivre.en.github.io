@@ -1,7 +1,7 @@
 ---
 layout: news
 title: My reading news for November 2026
-date: 2026-11-18
+date: 2026-11-19
 ---
 
 Here is a the list of reading news i share on November 2026.
