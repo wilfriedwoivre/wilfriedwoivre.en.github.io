@@ -1,7 +1,7 @@
 ---
 layout: news
 title: My reading news for November 2026
-date: 2026-11-20
+date: 2026-11-21
 ---
 
 Here is a the list of reading news i share on November 2026.
@@ -28,6 +28,7 @@ All of this list are a little messy, in the future i will try to sort them by ca
 - [[In preview] Public Preview: Azure Front Door adds native gRPC support](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=579383)
 - [Public Preview: Azure Route Server dual-stack IPv4/IPv6 support](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=579746)
 - [[Launched] Generally Available: Azure Front Door edge actions](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=579310)
+- [[In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=580155)
 - [[In preview] Public Preview: JWT validation with Azure Front Door Auth Policy](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=577673)
 - [[Launched] Generally Available: Azure Front Door mutual TLS authentication](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=577678)
 - [[In preview] Public Preview: SQL performance monitoring for Azure SQL Managed Instance](https://azure.microsoft.com/updates?WT.mc_id=AZ-MVP-4039694&id=574158)
